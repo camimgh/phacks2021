@@ -8,3 +8,4 @@ some ideas:
 - website that when submitted charts or images, generates color blind friendly color schemes? or lets you know if your image or text is not readable/not color blind friendly
 - health tracking app; menstruation, hormones, etc.
 - practice using pronouns app geared for kids?
+- informative route? how healthcare workers and officials can be more kind and inclusive in their practices
