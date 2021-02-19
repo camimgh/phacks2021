@@ -7,3 +7,4 @@ some ideas:
 - also can be extended to "can you check if this is safe for me?" submit videos for other people to review to check for trigger warnings or even like seizure warnings (seizure warning thing can be added to the collaborative text site). two reviewers will then watch through the video and let you know! and it can be added to a database so you can see if anyone's already submitted that video before
 - website that when submitted charts or images, generates color blind friendly color schemes? or lets you know if your image or text is not readable/not color blind friendly
 - health tracking app; menstruation, hormones, etc.
+- practice using pronouns app geared for kids?
