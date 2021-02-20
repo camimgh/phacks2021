@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import React, { Component } from "react";
+import NavBar from "./components/NavBar.js";
 
 class App extends Component {
   constructor(props) {
@@ -12,7 +14,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <p>hi</p>
+        <NavBar />
       </div>
     )
   }
