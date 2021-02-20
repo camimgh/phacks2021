@@ -6,7 +6,7 @@ import Navbar from 'react-bootstrap/Navbar';
 class LandingPage extends Component {
     render() {
         return (
-            <p>hello</p>
+            <p>LandingPage</p>
         )
     }
 }
