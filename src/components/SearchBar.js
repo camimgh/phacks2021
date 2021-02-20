@@ -1,19 +1,17 @@
-
 import React, { Component } from "react";
-import './About.css';
+import './SearchBar.css';
 import Form from 'react-bootstrap/Form'
 import Button from 'react-bootstrap/Button'
 import FormControl from 'react-bootstrap/FormControl'
-import Navbar from 'react-bootstrap/Navbar';
 
 
-class About extends Component {
+class SearchBar extends Component {
     render() {
         return (
-            <div id="about">
-                <h1>aligned.space</h1>
+            <div id="searchbar">
                 <Form>
-                    <FormControl type="text" placeholder="Search" className="mr-sm-2"/>
+                    <FormControl type="text" placeholder="What are you searching for?" className="mr-sm-2"/>
+                    <FormControl type="text" placeholder="Near" className="mr-sm-2"/>
                     <Button variant="outline-success">Search</Button>
                 </Form>
             </div>
@@ -21,4 +19,4 @@ class About extends Component {
     }
 }
 
-export default About;
+export default SearchBar;
