@@ -1,4 +1,9 @@
 #landingpage {
+    padding-top: 13vh;
     padding-left: 2rem;
     padding-right: 2rem;
+}
+
+#landingpage > h1 {
+    text-align: center;
 }
