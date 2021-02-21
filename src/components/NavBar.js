@@ -7,6 +7,7 @@ import logo from '../aligned.jpg';
 class NavBar extends Component {
     render() {
         return (
+          <div className="sticky">
             <Navbar bg="light" expand="lg">
             <img alt="aligned-logo" href="/" src={logo} width="36" height="36" className="d-inline=block align-top" />
             {' '}
@@ -20,6 +21,7 @@ class NavBar extends Component {
               </Nav>
             </Navbar.Collapse>
           </Navbar>
+          </div>
         )
     }
 }

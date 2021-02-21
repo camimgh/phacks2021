@@ -11,6 +11,9 @@
     font-size: 30px;
 }
 
+#about {
+    padding-top: 10vh;
+}
 #about > p {
     padding-left: 3rem;
     padding-right: 3rem;
