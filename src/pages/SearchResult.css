@@ -1,0 +1,16 @@
+#searchresult {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#topbar {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+#searchresult-deck {
+    padding-top: 3rem;
+}
+#searchresult .card {
+    width: 300px;
+}
