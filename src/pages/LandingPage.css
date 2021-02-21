@@ -2,8 +2,21 @@
     padding-top: 13vh;
     padding-left: 2rem;
     padding-right: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 #landingpage > h1 {
     text-align: center;
+}
+
+#landingpage #title {
+    background-color: #ffe0d6;
+    color: #615463;
+    font-weight: bold;
+}
+
+#landingpage > img {
+    padding-bottom: 1rem;
 }

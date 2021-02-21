@@ -1,0 +1,22 @@
+#resources {
+    padding-top: 3rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+#resources .asking-form {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#resources > img {
+    padding-top: 0.5rem;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#resources > h3{
+    padding-top: 1rem;
+}
