@@ -13,6 +13,7 @@ import LandingPage from './pages/LandingPage';
 import About from './pages/About';
 import Resources from './pages/Resources';
 import SubmitReview from './pages/SubmitReview';
+import SearchResult from './pages/SearchResult';
 
 class App extends Component {
   constructor(props) {
@@ -32,6 +33,7 @@ class App extends Component {
             <Route component={About} path="/about" />
             <Route component={Resources} path="/resources"/>
             <Route component={SubmitReview} path="/submitreview"/>
+            <Route component={SearchResult} path="/search"/>
           </Switch>
         </Router>
       </div>

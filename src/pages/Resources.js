@@ -22,7 +22,7 @@ class Resources extends Component {
                 <Form>
                 <div className="asking-form">
                     <FormControl type="text" placeholder="Find answers to previous questions" className="mr-sm-2"/>
-                    <Button variant="outline-success">Submit</Button>
+                    <Button href="/search" variant="outline-success">Submit</Button>
                 </div>
                 </Form>
                 <h3 className="headers">Patient Descriptor Worksheet</h3>
