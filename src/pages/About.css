@@ -1,0 +1,27 @@
+#about {
+    font-family: 'Roboto', sans-serif;
+    padding-top: 1rem;
+}
+.b-aligned {
+    color: #BA943B;
+}
+
+#about .headers {
+    text-align: center;
+    font-size: 30px;
+}
+
+#about > p {
+    padding-left: 3rem;
+    padding-right: 3rem;
+}
+
+#about > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.text-align-center {
+    text-align: center;
+}

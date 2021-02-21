@@ -8,7 +8,7 @@ class NavBar extends Component {
     render() {
         return (
             <Navbar bg="light" expand="lg">
-            <img alt="aligned-logo" href="/" src={logo} width="36" height="36" clsasName="d-inline=block align-top" />
+            <img alt="aligned-logo" href="/" src={logo} width="36" height="36" className="d-inline=block align-top" />
             {' '}
             <Navbar.Brand href="/">aligned</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
