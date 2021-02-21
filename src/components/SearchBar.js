@@ -10,7 +10,7 @@ class SearchBar extends Component {
         return (
             <div id="searchbar">
                 <Form>
-                    <FormControl type="text" placeholder="What are you searching for?" className="mr-sm-2"/>
+                    <FormControl type="text" placeholder="Find" className="mr-sm-2"/>
                     <FormControl type="text" placeholder="Near" className="mr-sm-2"/>
                     <div id="searchbutton">
                         <Button variant="outline-success">Search</Button>
