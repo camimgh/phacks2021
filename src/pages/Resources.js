@@ -26,7 +26,9 @@ class Resources extends Component {
                 </div>
                 </Form>
                 <h3 className="headers">Patient Descriptor Worksheet</h3>
-                <img alt="resources document" src={HealthForm} height="500" width="300"/>
+                <img alt="patient descriptor document" src={HealthForm} height="500" width="300"/>
+                <h3 className="headers">Nationwide Queer Health Resources</h3>
+                <img alt="resources document" src={ResourceForm} height="500" width="300"/>
             </div>
         )
     }
