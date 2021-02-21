@@ -168,24 +168,6 @@ class SearchResult extends Component {
                             </Card.Text>
                         </Card.Body>
                         </Card>
-                        <Card>
-                        <Card.Img src={MITMed} variant="top"/>
-                        <Card.Body>
-                            <Card.Title>MIT Medical</Card.Title>
-                            <Card.Text>25 Carleton St, Cambridge, MA, 02139
-                                <br/>
-                                <span class="fa fa-star checked"></span>
-                                <span class="fa fa-star checked"></span>
-                                <span class="fa fa-star checked"></span>
-                                <span class="fa fa-star"></span>
-                                <span class="fa fa-star"></span>
-                                <br/>
-                                <i>"A pretty long waiting process which is frustrating.
-                                    Asked for my name and pronouns at the beginning so I was..."
-                                </i>
-                            </Card.Text>
-                        </Card.Body>
-                        </Card>
                     </CardDeck>
                 </div>
             </div>
