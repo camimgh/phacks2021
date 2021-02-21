@@ -14,3 +14,7 @@
 #searchresult .card {
     width: 300px;
 }
+
+.checked {
+    color: #BA943B
+}
